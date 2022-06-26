@@ -7,6 +7,7 @@ Simple Anti recoil for Linux platform in Apex legend
 
 ## Features
 
+- python3
 - (Requires sudo)
 
 ## Usage
