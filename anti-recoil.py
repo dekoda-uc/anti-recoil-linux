@@ -6,6 +6,8 @@ import mouse
 from ctypes import *
 libc = CDLL("libc.so.6")
 
+# Requires sudo to run
+
 # $ sudo pip install keyboard
 # $ sudo pip install mouse
 # $ sudo apt-get install python-ctypes
