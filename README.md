@@ -26,6 +26,6 @@ Simple Anti recoil for Linux platform in Apex legend
    ```
    3. Start 
    ```
-   $ sudo python3 anti-recoil
+   $ sudo python3 anti-recoil.PY
    
     To activate the key press NumLock
