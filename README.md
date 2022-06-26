@@ -13,8 +13,10 @@ Simple Anti recoil for Linux platform in Apex legend
    Installation
 
    1. Open the `anti-recoil-linux` directory:
+   
    ```
-   cd anti-recoil-linux
+   $ git clone https://github.com/FlowDistant/anti-recoil-linux
+   $ cd anti-recoil-linux
    ```
    2. Install dependencies:
    ```
