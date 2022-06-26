@@ -76,9 +76,9 @@ enabled = False
 # Some prints for startup
 print("Anti-recoil script started!")
 if enabled:
-    print("Currently ENABLED")
+    print("Currently ENABLED (Press NumLock to disable)")
 else:
-    print("Currently DISABLED")
+    print("Currently DISABLED (Press NumLock to enable)")
 
 last_state = False
 
