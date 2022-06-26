@@ -6,6 +6,10 @@ import mouse
 from ctypes import *
 libc = CDLL("libc.so.6")
 
+# $ sudo pip install keyboard
+# $ sudo pip install mouse
+# $ sudo apt-get install python-ctypes
+
 #
 # FlowDistant@2022
 #
